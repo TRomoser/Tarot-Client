@@ -1,5 +1,5 @@
 # Assign the repository owner as the code owner for all files
 * @bluescaban @TRomoser
 
-# Assign specific users as code owners for specific directories
-/path/to/directory/ @user1 @user2
+<!-- # Assign specific users as code owners for specific directories
+/path/to/directory/ @user1 @user2 -->
